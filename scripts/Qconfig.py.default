@@ -3,7 +3,7 @@
 # access token. Replace "None" below with the quoted token string.
 # Uncomment the APItoken variable, and you will be ready to go.
 
-#APItoken = a217849cf38b4e63d83ca8b1292693b52c084e3d7553fd8c415baad2a173e545136ca8d53b5e39076c5211fe45516a6eed1205f234789b4ed6f2c0ca996f8a5c
+APItoken = a217849cf38b4e63d83ca8b1292693b52c084e3d7553fd8c415baad2a173e545136ca8d53b5e39076c5211fe45516a6eed1205f234789b4ed6f2c0ca996f8a5c
 
 config = {
   "url": 'https://quantumexperience.ng.bluemix.net/api'
